@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=bairro\ rua\ numero
+comment0.target=Endereco(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getRua()
+comment2.params=rua
+comment2.target=void\ setRua(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNumero()
+comment4.params=numero
+comment4.target=void\ setNumero(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getBairro()
+comment6.params=bairro
+comment6.target=void\ setBairro(java.lang.String)
+numComments=7
